@@ -14,6 +14,7 @@ import java.util.UUID;
 @EqualsAndHashCode
 @RequiredArgsConstructor
 @AllArgsConstructor
+@ToString
 public class Livro {
 
     @Id
